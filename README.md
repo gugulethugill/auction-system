@@ -1,4 +1,4 @@
-# **Fullstack Application: Java and Thymeleaf HTML Template
+# **Fullstack Application: Java and Thymeleaf HTML Template**
 
 This project is a simple fullstack application that utilizes Java SpringBoot as the backend and Thymeleaf as the frontend. The application is a bidding platform.
 
