@@ -3,7 +3,7 @@
 This project is a simple fullstack application that utilizes Java SpringBoot as the backend and Thymeleaf as the frontend. The application is a bidding platform.
 
 # **Prerequisites**
-Backend (SpringBoot):
+Backend (SpringBoot): 2.3.3.RELEASE
 
 Java 11
 
