@@ -2,9 +2,9 @@ package com.gugulethugillz.auctionsystem.common;
 
 import com.gugulethugillz.auctionsystem.common.enums.EntityStatus;
 import com.gugulethugillz.auctionsystem.common.enums.ResourceType;
-import com.gugulethugillz.auctionsystem.model.Asset;
-import com.gugulethugillz.auctionsystem.model.PaymentRequest;
-import com.gugulethugillz.auctionsystem.model.StatusHistory;
+import com.gugulethugillz.auctionsystem.asset.model.Asset;
+import com.gugulethugillz.auctionsystem.payment.model.PaymentRequest;
+import com.gugulethugillz.auctionsystem.status.StatusHistory;
 import org.springframework.web.multipart.MultipartFile;
 
 import java.math.BigDecimal;

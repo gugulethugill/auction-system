@@ -1,6 +1,6 @@
 package com.gugulethugillz.auctionsystem.integrations.camel;
 
-import com.gugulethugillz.auctionsystem.repository.HumanBeingRepository;
+import com.gugulethugillz.auctionsystem.person.repository.HumanBeingRepository;
 import org.apache.camel.Exchange;
 import org.apache.camel.Processor;
 import org.springframework.beans.factory.annotation.Autowired;

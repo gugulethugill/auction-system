@@ -1,10 +1,10 @@
 package com.gugulethugillz.auctionsystem.listeners;
 
 import com.gugulethugillz.auctionsystem.common.enums.EntityStatus;
-import com.gugulethugillz.auctionsystem.model.Admin;
-import com.gugulethugillz.auctionsystem.model.Person;
-import com.gugulethugillz.auctionsystem.repository.AdminRepository;
-import com.gugulethugillz.auctionsystem.service.ifaces.PersonService;
+import com.gugulethugillz.auctionsystem.person.model.Admin;
+import com.gugulethugillz.auctionsystem.person.model.Person;
+import com.gugulethugillz.auctionsystem.person.repository.AdminRepository;
+import com.gugulethugillz.auctionsystem.person.service.PersonService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.context.event.ContextRefreshedEvent;

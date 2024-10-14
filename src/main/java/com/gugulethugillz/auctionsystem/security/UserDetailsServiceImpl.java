@@ -1,7 +1,7 @@
 package com.gugulethugillz.auctionsystem.security;
 
-import com.gugulethugillz.auctionsystem.model.Person;
-import com.gugulethugillz.auctionsystem.service.ifaces.PersonService;
+import com.gugulethugillz.auctionsystem.person.model.Person;
+import com.gugulethugillz.auctionsystem.person.service.PersonService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
