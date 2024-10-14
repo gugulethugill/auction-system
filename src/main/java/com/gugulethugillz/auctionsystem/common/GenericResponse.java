@@ -1,6 +1,7 @@
 package com.gugulethugillz.auctionsystem.common;
 
 import com.gugulethugillz.auctionsystem.common.enums.ResponseCode;
+import com.gugulethugillz.auctionsystem.payment.model.PaymentRequest;
 import lombok.Builder;
 import lombok.Data;
 
